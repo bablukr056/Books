@@ -8,7 +8,16 @@ Steps 3. Click on download.
 
 #Review articles for beginners
 
-A review of protein–protein interaction network alignment: From pathway comparison to global alignment https://www.sciencedirect.com/science/article/pii/S2001037020303950
+*A review of protein–protein interaction network alignment: From pathway comparison to global alignment https://www.sciencedirect.com/science/article/pii/S2001037020303950
 
-A 10-step guide to party conversation for bioinformaticians: https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-1-104    One of the best review for Bioinformaticians.
+*A 10-step guide to party conversation for bioinformaticians: https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-1-104    One of the best review for Bioinformaticians.
+
+*An Introduction to Sequence Similarity (“Homology”) Searching: https://pubmed.ncbi.nlm.nih.gov/23749753/
+*Amino acid substitution matrices from protein blocks: https://www.pnas.org/content/89/22/10915#:~:text=Methods%20for%20alignment%20of%20protein,Dayhoff%20model%20of%20evolutionary%20rates.
+
+
+
+
+
+
 
