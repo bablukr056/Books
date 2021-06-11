@@ -15,7 +15,6 @@ Steps 3. Click on download.
 *An Introduction to Sequence Similarity (“Homology”) Searching: https://pubmed.ncbi.nlm.nih.gov/23749753/
 *Amino acid substitution matrices from protein blocks: https://www.pnas.org/content/89/22/10915#:~:text=Methods%20for%20alignment%20of%20protein,Dayhoff%20model%20of%20evolutionary%20rates.
 
-# coursera financial aid letter: https://drive.google.com/file/d/1FK_FH3066Qb_WT1ugEnOSQACGMRzatJf/view?usp=sharing
 
 
 
